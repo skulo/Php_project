@@ -1,0 +1,257 @@
+{
+    "loggedin": {
+        "username": "",
+        "email": "",
+        "pw1": "",
+        "money": "",
+        "cards": [],
+        "id": ""
+    },
+    "admin": {
+        "username": "admin",
+        "email": "",
+        "pw1": "admin",
+        "money": 831,
+        "cards": {
+            "card7": {
+                "name": "Rattata",
+                "type": "normal",
+                "hp": 30,
+                "attack": 56,
+                "defense": 35,
+                "price": 253,
+                "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/019.png",
+                "owner": "admin",
+                "id": "card7"
+            },
+            "card9": {
+                "name": "Ekans",
+                "type": "poison",
+                "hp": 35,
+                "attack": 60,
+                "defense": 44,
+                "price": 288,
+                "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/023.png",
+                "owner": "admin",
+                "id": "card9"
+            },
+            "card65a10507ae939": {
+                "name": "Teszt",
+                "type": "ice",
+                "hp": "51",
+                "attack": "23",
+                "defense": "123",
+                "price": "321",
+                "description": "This is a long test message message message message message ",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/030.png",
+                "owner": "admin",
+                "id": "card65a10507ae939"
+            },
+            "card65a1086c113a8": {
+                "name": "Kacsa",
+                "type": "ground",
+                "hp": "63",
+                "attack": "13",
+                "defense": "42",
+                "price": "434",
+                "description": "duck, any of various species of relatively small, short-necked, large-billed waterfowl.",
+                "image": "https:\\\/\\\/assets.pokemon.com\\\/assets\\\/cms2\\\/img\\\/pokedex\\\/full\\\/050.png",
+                "owner": "admin",
+                "id": "card65a1086c113a8"
+            },
+            "card65a11178e781c": {
+                "name": "Zezzzy",
+                "type": "psychic",
+                "hp": "44",
+                "attack": "123",
+                "defense": "123",
+                "price": "553",
+                "description": "Zezzzy is a psychic pokemon for testing",
+                "image": "https:\\\/\\\/assets.pokemon.com\\\/assets\\\/cms2\\\/img\\\/pokedex\\\/full\\\/033.png",
+                "owner": "admin",
+                "id": "card65a11178e781c"
+            },
+            "card6": {
+                "name": "Pidgey",
+                "type": "normal",
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "price": 251,
+                "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/016.png",
+                "owner": "admin",
+                "id": "card6"
+            },
+            "card3": {
+                "name": "Squirtle",
+                "type": "water",
+                "hp": 44,
+                "attack": 48,
+                "defense": 65,
+                "price": 314,
+                "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png",
+                "owner": "admin",
+                "id": "card3"
+            },
+            "card4": {
+                "name": "Caterpie",
+                "type": "bug",
+                "hp": 45,
+                "attack": 30,
+                "defense": 35,
+                "price": 195,
+                "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/010.png",
+                "owner": "admin",
+                "id": "card4"
+            },
+            "card5": {
+                "name": "Weedle",
+                "type": "bug",
+                "hp": 40,
+                "attack": 35,
+                "defense": 30,
+                "price": 195,
+                "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png",
+                "owner": "admin",
+                "id": "card5"
+            },
+            "card1": {
+                "name": "Charizard",
+                "type": "fire",
+                "hp": 78,
+                "attack": 84,
+                "defense": 78,
+                "price": 534,
+                "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png",
+                "owner": "admin",
+                "id": "card1"
+            },
+            "card0": {
+                "name": "Pikachu",
+                "type": "electric",
+                "hp": 60,
+                "attack": 20,
+                "defense": 20,
+                "price": 16110,
+                "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+                "image": "https:\\\/\\\/assets.pokemon.com\\\/assets\\\/cms2\\\/img\\\/pokedex\\\/full\\\/025.png",
+                "owner": "admin",
+                "id": "card0"
+            },
+            "card8": {
+                "name": "Spearow",
+                "type": "normal",
+                "hp": 40,
+                "attack": 60,
+                "defense": 30,
+                "price": 262,
+                "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/021.png",
+                "owner": "admin",
+                "id": "card8"
+            },
+            "card65a1a0ec5a84f": {
+                "name": "Charmeleon",
+                "type": "fire",
+                "hp": "41",
+                "attack": "412",
+                "defense": "412",
+                "price": "222",
+                "description": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/005.png",
+                "owner": "admin",
+                "id": "card65a1a0ec5a84f"
+            }
+        },
+        "id": "admin"
+    },
+    "65a122f6d5218": {
+        "username": "dasd",
+        "email": "ad@ad.com",
+        "pw1": "dasddddd",
+        "money": 500,
+        "cards": [],
+        "id": "65a122f6d5218"
+    },
+    "65a12e289dfa5": {
+        "username": "uborka123",
+        "email": "email@gmail.com",
+        "pw1": "jelszo123",
+        "money": 98005,
+        "cards": {
+            "card65a109429f4e3": {
+                "name": "Uborka",
+                "type": "grass",
+                "hp": "88",
+                "attack": "44",
+                "defense": "22",
+                "price": "44",
+                "description": "The vine has large leaves that form a canopy over the fruits.",
+                "image": "https:\\\\\\\/\\\\\\\/assets.pokemon.com\\\\\\\/assets\\\\\\\/cms2\\\\\\\/img\\\\\\\/pokedex\\\\\\\/full\\\\\\\/048.png",
+                "owner": "65a12e289dfa5",
+                "id": "card65a109429f4e3"
+            }
+        },
+        "id": "65a12e289dfa5"
+    },
+    "65a1457ed8822": {
+        "username": "turorudi",
+        "email": "turo@gmail.com",
+        "pw1": "turorudi123",
+        "money": 450,
+        "cards": [],
+        "id": "65a1457ed8822"
+    },
+    "65a145ab364d9": {
+        "username": "piloskakao",
+        "email": "pilos@gmail.com",
+        "pw1": "piloskakaobest",
+        "money": 500,
+        "cards": [],
+        "id": "65a145ab364d9"
+    },
+    "65a151ea3bcbb": {
+        "username": "icetea1",
+        "email": "ice@gmail.com",
+        "pw1": "icetea123",
+        "money": 500,
+        "cards": [],
+        "id": "65a151ea3bcbb"
+    },
+    "65a18b02853f3": {
+        "username": "keszvagyok",
+        "email": "kesz@gmail.com",
+        "pw1": "keszkesz",
+        "money": 178,
+        "cards": {
+            "card2": {
+                "name": "Bulbasaur",
+                "type": "grass",
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "price": 318,
+                "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png",
+                "owner": "65a18b02853f3",
+                "id": "card2"
+            }
+        },
+        "id": "65a18b02853f3"
+    },
+    "65a41045b92d3": {
+        "username": "tesztcsirke",
+        "email": "csirke@gmail.com",
+        "pw1": "csirkecsirke",
+        "money": 500,
+        "cards": [],
+        "id": "65a41045b92d3"
+    }
+}
